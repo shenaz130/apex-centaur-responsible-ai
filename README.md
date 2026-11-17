@@ -52,6 +52,9 @@ These are proposed mitigations, not experimentally validated improvements.
 - Human-in-the-loop system design
 - Ethical risk assessment
 
+## Portfolio Report
+
+[View Individual Apex-Centaur Ethics Analysis (PDF)](Apex_Centaur_Individual_Portfolio_Analysis.pdf)
 ## Project Status
 
 Completed academic ethics case study and individual portfolio analysis of a fictional system. No production AI model was developed or deployed.
